@@ -1,0 +1,28 @@
+double compute(double x,, double y)
+{ 
+    return x + y; 
+}
+
+void foo()
+{
+}
+
+int local = 5;
+
+int a;
+return 0;
+
+int add(int x, int y);
+int add(int a, int b) {
+    return a + b;
+}
+
+float b = 3;
+
+int a is Invalid Declaration/Definition
+
+{ return x + y; }
+
+{ 
+
+int sum(a+b); return 0;

@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1753870419 source:c:\users\user\downloads\aiub stuffs\aiub docs\6th summer 25\compiler lab\lt3\read&detecttokens&correction\main.cpp
+	<iostream>
+	<string>
+	<sstream>
+	<cctype>
+
